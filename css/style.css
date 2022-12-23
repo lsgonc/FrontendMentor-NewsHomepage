@@ -1,0 +1,92 @@
+body{
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    color: hsl(236, 13%, 42%);
+}
+
+
+/* NAVBAR */
+#navbar{
+    padding: 50px 10% 50px 10%;
+}
+
+.nav-link:hover{
+    color: hsl(35, 77%, 62%); 
+}
+
+
+/* MAIN */
+#main-section{
+    padding: 0 10% 50px 10%;
+}
+
+.left-cont{
+    padding: 30px;
+    
+}
+
+.left-title{
+    font-size: 3.5rem;
+    font-weight: 800;
+    line-height: 1.2;
+    color:hsl(240, 100%, 5%)
+}
+
+.btn-read{
+    background-color: hsl(5, 85%, 63%);
+    padding: 15px 30px 15px 30px;
+    color: hsl(36, 100%, 99%);
+    font-weight: 800;
+    letter-spacing: 0.5rem;
+}
+
+.btn-read:hover{
+    background-color: hsl(240, 100%, 5%);
+    color: hsl(36, 100%, 99%);
+}
+
+.right-cont{
+    background-color: hsl(240, 100%, 5%);
+    color: hsl(236, 13%, 42%);
+    text-align: left;
+    line-height: 2;
+    padding: 30px;
+}
+.right-title{
+    font-size: 3rem;
+    font-weight: 800;
+    color: hsl(35, 77%, 62%);
+}
+
+.right-cont h4{
+    font-weight: 800;
+    color: hsl(36, 100%, 99%);
+}
+
+.right-cont h4:hover{
+    color: hsl(35, 77%, 62%);
+}
+
+/* END SECTION */
+#end-section{
+    padding: 20px 10% 5% 10%;
+}
+
+.card-number{
+    color:hsl(233, 8%, 79%);
+    font-size: 1.5rem;
+    font-weight: 800;
+}
+
+.card-title{
+    color:hsl(240, 100%, 5%);
+    font-size: 1.5rem;
+    padding: px 0 0 0;
+    font-weight: 800;
+}
+
+.card-title:hover{
+    color:hsl(5, 85%, 63%);
+}
+
